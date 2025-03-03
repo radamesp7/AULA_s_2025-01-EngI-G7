@@ -19,25 +19,34 @@ otimizar a utilização dos materiais.
 
 LISTA DE SUBSTANTIVOS:
 -Indústria
--Alimentar
+-Alimentícia
 -Controle
 -Materiais
 -Processo-chave
 -Qualidade
 -Eficiência
 -Produtos finais
+-Atores
 -Funções
 -Setores
 -Sistema
 -Gerente de compras
 -Ingredientes
+-Produção
+-Alimentos
 -Colaboração
 -Fornecedores
 -Preços
 -Custos de produção
 -Supervisora de estoque
 -Armazenamento de materias
+-Itens
+-Armazem
+-Pedidos
 -Coordenador de produção
 -Processo de fabricação
 -Líderes
+-Linha
+-Planejamento
+-Otimização
 -Utilização de materiais
